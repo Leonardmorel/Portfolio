@@ -248,6 +248,8 @@ textarea {
 
 .about {
   background: #fafafa; }
+  
+
   .about__content {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -255,7 +257,8 @@ textarea {
     @media only screen and (max-width: 56.25em) {
       .about__content {
         grid-template-columns: 1fr;
-        grid-gap: 8rem; } }
+        grid-gap: 8rem; 
+        } }
     .about__content-title {
       font-weight: 700;
       font-size: 2.8rem;
@@ -268,7 +271,8 @@ textarea {
       color: grey;
       max-width: 60rem;
       line-height: 1.7;
-      margin-bottom: 1rem; }
+      margin-top: 2rem;
+      margin-bottom: 2em; }
       .about__content-details-para--hl {
         font-weight: 700;
         margin: 0 3px; }
@@ -702,3 +706,24 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+
+.Boston{
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+  
+}
+.pres-boston{
+  margin-top: 30px;
+}
+
+.pres{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+    grid-gap: 10rem; }
+    @media only screen and (max-width: 56.25em) {
+}

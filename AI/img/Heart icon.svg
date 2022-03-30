@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="Group_174" data-name="Group 174" transform="translate(-1245 -20)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1245 20)" fill="none" stroke="#c9c9c9" stroke-width="1.5">
+      <circle cx="19" cy="19" r="19" stroke="none"/>
+      <circle cx="19" cy="19" r="18.25" fill="none"/>
+    </g>
+    <path id="heart-solid" d="M14.491,39.34,8.566,45.468a.975.975,0,0,1-1.409,0L1.23,39.341a4.415,4.415,0,0,1,.281-6.371,4.222,4.222,0,0,1,5.746.4l.6.622.6-.622a4.222,4.222,0,0,1,5.747-.4A4.416,4.416,0,0,1,14.491,39.34Z" transform="translate(1256.14 0.104)" fill="#747373"/>
+  </g>
+</svg>

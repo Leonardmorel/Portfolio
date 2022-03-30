@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="Group_175" data-name="Group 175" transform="translate(-1298 -20)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1298 20)" fill="none" stroke="#c9c9c9" stroke-width="1.5">
+      <circle cx="19" cy="19" r="19" stroke="none"/>
+      <circle cx="19" cy="19" r="18.25" fill="none"/>
+    </g>
+    <path id="user-xmark-solid" d="M7.375,8.161H4.653A4.653,4.653,0,0,0,0,12.814a.93.93,0,0,0,.931.932H11.1a.93.93,0,0,0,.93-.932A4.653,4.653,0,0,0,7.375,8.161ZM6.014,6.873A3.436,3.436,0,1,0,2.577,3.436,3.436,3.436,0,0,0,6.014,6.873Z" transform="translate(1310.987 32.127)" fill="#747373"/>
+  </g>
+</svg>
